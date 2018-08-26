@@ -1,7 +1,7 @@
 # Scalable and modular material point method for large-scale simulations
 > Krishna Kumar, Kenichi Soga and Giovanna Biscontin
 
-[![License CC-By-NC-4.0](http://img.shields.io/badge/license-CC-By-NC-4.0-brightgreen.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![License CC-By-4.0](https://img.shields.io/badge/license-cc--by--4.0-brightgreen.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 
 ## Abstract
